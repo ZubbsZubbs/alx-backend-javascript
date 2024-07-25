@@ -1,0 +1,5 @@
+# Ensure LF endings for all text files
+* text=auto
+
+# Specifically for .cmd files, you may force LF endings
+*.cmd text eol=lf
